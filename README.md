@@ -9,7 +9,7 @@ Hi.👋 I'm Cahit. Cahit Can. Cahit Can ÖZGEN.</h1>
  - :computer:I am a person who is in love with software development.:heart:
  - :computer:I have been dealing with software development for 3 years. 
  - :point_right::pizza:Eat:pizza: :zzz:Sleep:zzz: :computer:Code:computer: :repeat:Repeat:repeat:
- -:bus::heart:A software developer who loves buses.:bus::heart:
+ - :bus::heart:A software developer who loves buses.:bus::heart:
 
 <h1 align="center">:muscle:Don't Repeat Yourself:muscle:</h1>
 
