@@ -32,26 +32,9 @@ Hi.👋 I'm Cahit. Cahit Can. Cahit Can ÖZGEN.</h1>
   <img src="https://img.shields.io/github/stars/cahitcanozgenn?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-<h1 align="center"> 💻Cahit Can ÖZGEN | Software Developer💻</h1>
 
 
-### Hi there, I'm Cahit Can ÖZGEN 👋 
-## I'm a Software Developer 🖥️ and Student 👨‍🎓 !!
-
-- 💻 I am a computer programming student at Ondokuz Mayıs University.
-- 💥 I like to do sports, read magazines, do research, listen to music.
-- ❤️ I am a person who is in love with software development.
-- ⚡ DRY(Don't Repeat Yourself)⚡
-- 
-
-### Connect with me:
-
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+>
 
 ### Languages and Tools:
 
@@ -66,7 +49,7 @@ Hi.👋 I'm Cahit. Cahit Can. Cahit Can ÖZGEN.</h1>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
+<h1 align="center"> 💻Cahit Can ÖZGEN | Software Developer💻</h1>
 [youtube]: https://www.youtube.com/channel/UCbMY862JmObum7-5axh4tfQ
 [instagram]: https://www.instagram.com/cahitcanozgen/
 [linkedin]: https://tr.linkedin.com/in/cahit-can-%C3%B6zgen-07ab241b6
