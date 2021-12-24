@@ -4,10 +4,10 @@ Hi.👋 I'm Cahit. Cahit Can. Cahit Can ÖZGEN.</h1>
 <br/>
 
 ### Who am I?
- - :computer:I am a 1st year student of Computer Programming at Ondokuz Mayıs University. 
- - :computer:I've been working day and night to be the best in the Back End. 
- - :computer:I am a person who is in love with software development.:heart:
- - :computer:I have been dealing with software development for 3 years. 
+ - ⚡I am a 1st year student of Computer Programming at Ondokuz Mayıs University. 
+ - ⚡I've been working day and night to be the best in the Back End. 
+ - ⚡I am a person who is in love with software development.:heart:
+ - ⚡I have been dealing with software development for 3 years. 
  - :point_right::pizza:Eat:pizza: :zzz:Sleep:zzz: :computer:Code:computer: :repeat:Repeat:repeat:
  - :bus::heart:A software developer who loves buses.:bus::heart:
 
