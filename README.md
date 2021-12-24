@@ -11,7 +11,7 @@ Hi.👋 I'm Cahit. Cahit Can. Cahit Can ÖZGEN.</h1>
  - :point_right::pizza:Eat:pizza: :zzz:Sleep:zzz: :computer:Code:computer: :repeat:Repeat:repeat:
  -:bus::heart:A software developer who loves buses.:bus::heart:
 
-<h1>***:muscle:Don't Repeat Yourself:muscle:***</h1>
+<h1>:muscle:Don't Repeat Yourself:muscle:</h1>
 
 
 
