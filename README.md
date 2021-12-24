@@ -17,9 +17,7 @@ Hi.👋 I'm Cahit. Cahit Can. Cahit Can ÖZGEN.</h1>
 
 
 </p>
-<br>
 :bus::heart:A software developer who loves buses.:bus::heart:
-<br>
 <br>
 <p align="left">
 <a href="https://tr.linkedin.com/in/cahit-can-%C3%B6zgen-07ab241b6" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
