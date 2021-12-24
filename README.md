@@ -11,13 +11,15 @@ Hi.👋 I'm Cahit. Cahit Can. Cahit Can ÖZGEN.</h1>
  - :point_right::pizza:Eat:pizza: :zzz:Sleep:zzz: :computer:Code:computer: :repeat:Repeat:repeat: 
  - 📫 If you want to reach me, you can reach me at "cahitcanozgen53@gmail.com".
 
+:bus::heart:A software developer who loves buses.:bus::heart:
+
 ***:muscle:Don't Repeat Yourself:muscle:***
 
 
 
-
 </p>
-:bus::heart:A software developer who loves buses.:bus::heart:
+
+<br>
 <br>
 <p align="left">
 <a href="https://tr.linkedin.com/in/cahit-can-%C3%B6zgen-07ab241b6" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
