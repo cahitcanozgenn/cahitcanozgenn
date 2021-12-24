@@ -8,12 +8,10 @@ Hi.👋 I'm Cahit. Cahit Can. Cahit Can ÖZGEN.</h1>
  - :computer:I've been working day and night to be the best in the Back End. 
  - :computer:I am a person who is in love with software development.:heart:
  - :computer:I have been dealing with software development for 3 years. 
- - :point_right::pizza:Eat:pizza: :zzz:Sleep:zzz: :computer:Code:computer: :repeat:Repeat:repeat: 
- - 📫 If you want to reach me, you can reach me at "cahitcanozgen53@gmail.com".
+ - :point_right::pizza:Eat:pizza: :zzz:Sleep:zzz: :computer:Code:computer: :repeat:Repeat:repeat:
+ -:bus::heart:A software developer who loves buses.:bus::heart:
 
-:bus::heart:A software developer who loves buses.:bus::heart:
-
-***:muscle:Don't Repeat Yourself:muscle:***
+<h1>***:muscle:Don't Repeat Yourself:muscle:***</h1>
 
 
 
