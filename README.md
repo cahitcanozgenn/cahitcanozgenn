@@ -50,9 +50,7 @@ Hi.👋 I'm Cahit. Cahit Can. Cahit Can ÖZGEN.</h1>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br> <br>
 <h1 align="center"> 💻Cahit Can ÖZGEN | Software Developer💻</h1>
-[youtube]: https://www.youtube.com/channel/UCbMY862JmObum7-5axh4tfQ
-[instagram]: https://www.instagram.com/cahitcanozgen/
-[linkedin]: https://tr.linkedin.com/in/cahit-can-%C3%B6zgen-07ab241b6
+
 
 
 
