@@ -12,11 +12,7 @@ Hi.👋 I'm Cahit. Cahit Can. Cahit Can ÖZGEN.</h1>
  - 📫 If you want to reach me, you can reach me at "cahitcanozgen53@gmail.com".
 
 ***:muscle:Don't Repeat Yourself:muscle:***
-<p align="left">
-<a href="https://tr.linkedin.com/in/cahit-can-%C3%B6zgen-07ab241b6" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
-<a href="https://www.instagram.com/cahitcanozgen/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
-<a href="https://twitter.com/cahitcanozgen" target="blank"><img align="center" src="https://www.iics.k12.tr/wp-content/uploads/2019/07/twitter-logo-png-twitter-logo.png" height="30" width="40" />
-</a>
+
 
 
 
@@ -25,6 +21,12 @@ Hi.👋 I'm Cahit. Cahit Can. Cahit Can ÖZGEN.</h1>
 :bus::heart:A software developer who loves buses.:bus::heart:
 <br>
 <br>
+<p align="left">
+<a href="https://tr.linkedin.com/in/cahit-can-%C3%B6zgen-07ab241b6" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
+<a href="https://www.instagram.com/cahitcanozgen/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
+<a href="https://twitter.com/cahitcanozgen" target="blank"><img align="center" src="https://www.iics.k12.tr/wp-content/uploads/2019/07/twitter-logo-png-twitter-logo.png" height="30" width="40" />
+</a>
+ <br><br>
 
 <p align="center">
   <img src= "https://gpvc.arturio.dev/cahitcanozgenn" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
