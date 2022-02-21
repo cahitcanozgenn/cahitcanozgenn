@@ -1,6 +1,6 @@
 <h1 align="center"> 
 Hi.👋 I'm Cahit. Cahit Can. Cahit Can ÖZGEN.</h1>
- <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"></a>
+ <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://giphy.com/embed/qgQUggAC3Pfv687qP"></a>
 <br/>
 
 ### Who am I?
