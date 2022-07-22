@@ -1,10 +1,9 @@
 <h1 align="center"> 
 Hi.👋 I'm Cahit. Cahit Can. Cahit Can ÖZGEN.</h1>
- <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"></a>
 <br/>
 
 ### Who am I?
- - ⚡I am a 1st year student of Computer Programming at Ondokuz Mayıs University. 
+ - ⚡I am a 2st year student of Computer Programming at Ondokuz Mayıs University. 
  - ⚡I've been working day and night to be the best in the Back End. 
  - ⚡I am a person who is in love with software development.:heart:
  - ⚡I have been dealing with software development for 3 years. 
