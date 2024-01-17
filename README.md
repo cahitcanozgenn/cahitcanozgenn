@@ -18,23 +18,6 @@ Hi.👋 I'm Cahit. Cahit Can. Cahit Can ÖZGEN.</h1>
 
 <br>
 <br>
-<p align="left">
-<a href="https://tr.linkedin.com/in/cahit-can-%C3%B6zgen-07ab241b6" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
-<a href="https://www.instagram.com/cahitcanozgen/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
-<a href="https://twitter.com/cahitcanozgen" target="blank"><img align="center" src="https://www.iics.k12.tr/wp-content/uploads/2019/07/twitter-logo-png-twitter-logo.png" height="30" width="40" />
-</a>
-
-
-<p align="center">
-  <img src= "https://gpvc.arturio.dev/cahitcanozgenn" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/cahitcanozgenn?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/cahitcanozgenn?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
-
-
-
->
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -48,7 +31,7 @@ Hi.👋 I'm Cahit. Cahit Can. Cahit Can ÖZGEN.</h1>
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br> <br>
-<h1 align="center"> 💻Cahit Can ÖZGEN | Software Developer💻</h1>
+<h1 align="center"> 💻Cahit Can ÖZGEN | Embedded Software Developer💻</h1>
 
 
 
