@@ -3,10 +3,10 @@ Hi.👋 I'm Cahit. Cahit Can. Cahit Can ÖZGEN.</h1>
 <br/>
 
 ### Who am I?
- - ⚡I am a 2st year student of Computer Programming at Ondokuz Mayıs University. 
- - ⚡I've been working day and night to be the best in the Back End. 
+ - ⚡I am a 3rd year student at Anadolu University Management Information Systems. 
+ - ⚡I love software development, playing Euro Truck Simulator, writing articles, producing content and driving buses.
  - ⚡I am a person who is in love with software development.:heart:
- - ⚡I have been dealing with software development for 3 years. 
+ - ⚡I have been dealing with software development for 6 years. 
  - :point_right::pizza:Eat:pizza: :zzz:Sleep:zzz: :computer:Code:computer: :repeat:Repeat:repeat:
  - :bus::heart:A software developer who loves buses.:bus::heart:
 
